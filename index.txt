@@ -1,0 +1,6 @@
+Capítulo 1: Introducción a Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Repostirios remotos[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Citorios  [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[ remotos
+$ git status
+[C[A[A[C[C[C[C[C[C[C[C[C[C> git status
+[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D
